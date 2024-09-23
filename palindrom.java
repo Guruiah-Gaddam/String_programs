@@ -22,7 +22,7 @@ package Strings.com;
 		
 	}*/
 //check this is a reverse String 
-/*public class Palindrom
+/*public class Reverse
 {
   public static String rev (String s) {
 	  int i=0;
@@ -57,7 +57,7 @@ package Strings.com;
 	System.out.println(rev(s));
 }*/
   // check the string reverse the words in agiven string 
-/*public class palindrom {
+/*public class reverseSentences {
 			public static void rev(String s)
 			{
 				String s1="";
@@ -100,7 +100,7 @@ package Strings.com;
 
 // check the string the ANAGARAM OR NOT ?
 
-/*public class palindrom {
+/*public class anagaram {
 	public static boolean isAnagaram(String s,String s1)
 	{
 		while(true)
@@ -157,7 +157,7 @@ package Strings.com;
 	    }
 	}*/
 //COUNTING THE WORDS IN STRING 
-public class palindrom{
+public class countingwords{
 	public static void main(String[] args) {
 		String s="java is easy";
 		int count=0;
